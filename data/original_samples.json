@@ -1,0 +1,2016 @@
+[
+    {
+        "utterance_id": "c68d4d9a9dcec56436f3bf3adae0fda57bf05158",
+        "tree_id": "fe7cea1b36389206251af289a647ab7b51f61927",
+        "source_url": "https://www.benefits.gov/benefits/benefit-details/569",
+        "snippet": "VA can also reimburse expenses for covered travel to and from your doctor or health care facility within a reasonable commuting area. Preauthorization is required for travel outside of the commuting area.",
+        "question": "Can the VA reimburse my travel to and from the doctor?",
+        "scenario": "I am a 46 year old Veteran from the United States. My doctor's not in a reasonable commuting area, but fortunately I did receive preauthorization for travel outside the commuting area.",
+        "answer": "Yes",
+        "history": [
+            {
+                "follow_up_question": "Is it in a reasonable commuting area?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "Did you receive preauthorization for travel outside of the commuting area?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "031911741593805a9a360282801604ee06015558",
+        "tree_id": "4c651a9d6a04b0b2a571e2ab5ee408ffc51cbb65",
+        "source_url": "https://www.benefits.gov/benefits/benefit-details/569",
+        "snippet": "The Department of Veteran Affairs (VA) Children of Women Vietnam Veterans (CWVV) Health Care Benefits Program provides reimbursement for medical care related to covered birth defects and conditions associated with a covered birth defect except for Spina Bifida. CWVV is administered by the Chief Business Office Purchased Care located in Denver, Colorado.",
+        "question": "Does the CWVV fit my needs?",
+        "scenario": "I have two children.  One is seven and one is two.  The younger one was born with Spina Bifida.",
+        "answer": "No",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Do you need reimbursement for medical care related to covered birth defects and conditions associated with a covered birth defect except for Spina Bifida?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "097ca2a8edcc27952ec2b0f3e68c672a3d1ef428",
+        "tree_id": "77077a4e431ff3a0219f3eaac60660db147155ef",
+        "source_url": "https://www.gov.uk/guidance/export-products-made-from-endangered-animals-special-rules",
+        "snippet": "#  Export products made from endangered animals: special rules\n\nThere are special rules for products made with elephant ivory, rhino horn, tigers and their parts and derivatives, bear bile, bear paws and gallbladders, and eggs of native British birds. They can only be exported in special cases like for scientific research, if they\u2019re family heirlooms or valuable artworks.",
+        "question": "Can I export products made from this animal?",
+        "scenario": "I am a 50 year old man from the United States with my own business. The products made from the animal are for scientific research. They are valuable artworks.",
+        "answer": "Yes",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Are they for scientific research, if they\u2019re family heirlooms or valuable artworks?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "1dd8bdb856a2b7ff7d9bb8cba3543af31e4a9c90",
+        "tree_id": "566837f88b9807265aac87e768200b3ba7b63c4a",
+        "source_url": "https://www.gov.uk/benefits-calculators",
+        "snippet": "## What you\u2019ll need\n\nYou\u2019ll need accurate information about your:\n\n* savings\n* income, including your partner\u2019s (from payslips, for example)\n* existing benefits and pensions (including anyone living with you)\n* outgoings (such as rent, mortgage, childcare payments)",
+        "question": "Do I need information about this?",
+        "scenario": "I am wondering about information. Everything about my existing benefits is documented, but my business has never experienced any damage.",
+        "answer": "Yes",
+        "history": [
+            {
+                "follow_up_question": "Is this information about your savings?",
+                "follow_up_answer": "Yes"
+            },
+            {
+                "follow_up_question": "Do you have accurate info about your income?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "Do you have info about your existing benefits?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "a70bcc82105580f889f2f19eb60bb2693d273119",
+        "tree_id": "95222ed436cbf83e71c65f1021aee2a7e7211313",
+        "source_url": "https://www.benefits.gov/benefits/benefit-details/569",
+        "snippet": "If you are a female Vietnam Veteran with a child who has a birth defect or you are a child of a female Vietnam Veteran with a birth defect, the child may be eligible for VA-financed health care.",
+        "question": "Is my child eligible for VA-financed health care?",
+        "scenario": "My dad was in the army.  He served in the Vietnam War and later worked in a factory.",
+        "answer": "Do you have a birth defect?",
+        "history": [
+            {
+                "follow_up_question": "Are you a female Vietnam Veteran?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "Are you the child of a Vietnam Veteran?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "a989690495fb94b57c93f2d45e7e275c11c82998",
+        "tree_id": "860c8f7cadd849e8d263ecba19f76c4af440b88c",
+        "source_url": "https://www.gov.uk/maternity-pay-leave/eligibility",
+        "snippet": "## Statutory Maternity Pay\n\nYou can still get Statutory Maternity Leave and SMP if your baby:\n\n* is born early\n* is stillborn after the start of your 24th week of pregnancy\n* dies after being born",
+        "question": "Can I get Statutory Maternity Leave?",
+        "scenario": "My baby died after 2 weeks.",
+        "answer": "Yes",
+        "history": [
+            {
+                "follow_up_question": "Was your baby born early?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Was your baby stillborn after the start of your 24th week of pregnancy?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "Did your baby die after being born?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "a467d8fb237fcc4867457307ccc5939b94485507",
+        "tree_id": "95222ed436cbf83e71c65f1021aee2a7e7211313",
+        "source_url": "https://www.benefits.gov/benefits/benefit-details/569",
+        "snippet": "If you are a female Vietnam Veteran with a child who has a birth defect or you are a child of a female Vietnam Veteran with a birth defect, the child may be eligible for VA-financed health care.",
+        "question": "Is my child eligible for VA-financed health care?",
+        "scenario": "My mum smoked when she was pregnant, because back then, they didn't know the dangers. She said now she's amazed I was born so healthy and don't have any problems, knowing what we know now.",
+        "answer": "No",
+        "history": [
+            {
+                "follow_up_question": "Are you a female Vietnam Veteran?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Are you the child of a Vietnam Veteran?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "Do you have a birth defect?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "24ead1a75735e3028094ba1ab48216ad152e5a24",
+        "tree_id": "3df8c26a7f51f322c208b1be1dada20b92f10c76",
+        "source_url": "https://www.benefits.gov/benefits/benefit-details/1503",
+        "snippet": "Homeowners may apply for up to $200,000 to repair or replace their primary residence to its pre-disaster condition. The loan may not be used to upgrade the home or make additions to it, unless as required by building authority/code. In some cases, SBA may be able to refinance all or part of a previous mortgage (not to exceed $200,000) when the applicant does not have credit available elsewhere, has suffered substantial disaster damage not covered by insurance, and intends to repair the damage. SBA considers refinancing when processing each application. Loans may also be increased by as much as 20 percent of the verified losses (not to exceed $200,000) to protect the damaged real property from possible future disasters of the same kind. Secondary homes or vacation properties are not eligible for home disaster loans; however, qualified rental properties may be eligible for assistance under the business disaster loan program.",
+        "question": "Is this loan suitable for me?",
+        "scenario": "I am trying to do some basic home repairs and update some features. The home has not been impacted by any disasters.",
+        "answer": "No",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Was your home affected by a disaster?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "e49d20165663d1a3caa5c0eedc16c08b9ea3af27",
+        "tree_id": "ac40162e1dc6c936d60476a8fc84f905a8f7caba",
+        "source_url": "https://www.benefits.gov/benefits/benefit-details/286",
+        "snippet": "You may be an eligible Veteran if:\n\n* You have an Honorable Discharge, and\n* You have a High School Diploma (or equivalent) - or 12 hours of college credit, and\n* You meet the requirements under one of the four categories, listed on the Department of Veterans Affairs (VA) Montgomery GI Bill Active Duty page",
+        "question": "May I be an eligible Veteran?",
+        "scenario": "I am a veteran living next door to a children's daycare center. I never graduated high school, but I did manage to get an honorable discharge from the military.",
+        "answer": "No",
+        "history": [
+            {
+                "follow_up_question": "Do you have an honorable discharge?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "do you have a high school diploma?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "6b54820e750a215be63da67218ce9ce505b5855f",
+        "tree_id": "431941c0ec688baea67e3b36ac0a0ba78b338628",
+        "source_url": "https://www.gov.uk/getting-help-with-your-tax-credits-claim/authorisation",
+        "snippet": "## If you act for a lot of clients\n\nYou can get urgent authorisation online if you\u2019re an intermediary organisation and you have a completed TC689.",
+        "question": "Can I get urgent authorisation online?",
+        "scenario": "I haven't yet been able to complete the TC689",
+        "answer": "No",
+        "history": [
+            {
+                "follow_up_question": "Are you an intermediary organisation?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "Have you  completed TC689?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "e0e185087cf3d77074d5cc947b1d1db124de1b9b",
+        "tree_id": "a634482fe83dc8cd441801406e7b0127fa474d09",
+        "source_url": "https://www.gov.uk/state-pension/inheritance",
+        "snippet": "## State Pension top up\n\nIf you topped up your State Pension (between 12 October 2015 and 5 April 2017), your spouse or civil partner may be able to inherit some or all of your top up.",
+        "question": "Will my spouse be able to inherit some or all of my top up?",
+        "scenario": "I am concerned about what will be left to my wife after my passing. I have not topped up my state pension in the last 3 years.",
+        "answer": "No",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Have you topped up your State Pension (between 12 October 2015 and 5 April 2017)?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "31434dea095efdfa4d8c1e99dcf5d9069e59c630",
+        "tree_id": "88556f63d7e24ced050ae922f6613fedc75437d2",
+        "source_url": "https://www.gov.uk/holiday-entitlement-rights/taking-holiday-before-leaving-a-job",
+        "snippet": "## Taking more leave than the entitlement\n\nIf a worker has taken more leave than they\u2019re entitled to, their employer must not take money from their final pay unless it\u2019s been agreed beforehand in writing. The rules in this situation should be outlined in the employment contract, company handbook or intranet site.",
+        "question": "Can my employer take money from my final pay?",
+        "scenario": "My boss reduced my last check. I took way too much holiday. We did have an agreement in my contract concerning this though.",
+        "answer": "Yes",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Did you take more leave than they\u2019re entitled to?",
+                "follow_up_answer": "Yes"
+            },
+            {
+                "follow_up_question": "Did you agree to it beforehand?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "61aa92f40da06ffb5ab98b1eb16aeebd7a4042f4",
+        "tree_id": "395e049377c4b6d09a040239cfabd90a019d7c1f",
+        "source_url": "https://www.benefits.gov/benefits/benefit-details/286",
+        "snippet": "The Montgomery GI Bill (MGIB) is an educational assistance program enacted by Congress to attract high quality men and women into the Armed Forces. The MGIB-Active Duty program provides up to 36 months of education benefits to those who have served on active duty.",
+        "question": "Does this program meet my needs? Does this program apply to me?",
+        "scenario": "I am a 23 year old woman from the United Kingdom. I do consider myself a high quality person and I do want to receive educational benefits.",
+        "answer": "Yes",
+        "history": [
+            {
+                "follow_up_question": "Do you want to go into the armed forces?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "Do you consider yourself a high quality person?",
+                "follow_up_answer": "Yes"
+            },
+            {
+                "follow_up_question": "Do you want to receive educational benefits?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "2331604365b0cde915a854259e28034b8a69b5d9",
+        "tree_id": "ac40162e1dc6c936d60476a8fc84f905a8f7caba",
+        "source_url": "https://www.benefits.gov/benefits/benefit-details/286",
+        "snippet": "You may be an eligible Veteran if:\n\n* You have an Honorable Discharge, and\n* You have a High School Diploma (or equivalent) - or 12 hours of college credit, and\n* You meet the requirements under one of the four categories, listed on the Department of Veterans Affairs (VA) Montgomery GI Bill Active Duty page",
+        "question": "May I be an eligible Veteran?",
+        "scenario": "I served in the army for 4 years. I was honorably discharged and do not possess a high school diploma as a result of my hard upbringing.",
+        "answer": "No",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Do you have an honorable discharge?",
+                "follow_up_answer": "Yes"
+            },
+            {
+                "follow_up_question": "do you have a high school diploma?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "8448f702cad8a689a0ffe5151234abc8318a0e6d",
+        "tree_id": "383e069af14576defd006b051b347be9ad0196ad",
+        "source_url": "https://www.gov.uk/vat-businesses/charging-vat-to-charities",
+        "snippet": "## Items that qualify for the zero rate\n\nYou may be able to apply zero VAT when you sell the following to an eligible charity:\n\n* equipment for making \u2018talking\u2019 books and newspapers\n* lifeboats and associated equipment, including fuel\n* medicine or ingredients for medicine\n* resuscitation training models",
+        "question": "Can I apply zero VAT to this item?",
+        "scenario": "We exclusively sell manikins that are used to help people learn the basics of CPR.",
+        "answer": "Yes",
+        "history": [
+            {
+                "follow_up_question": "Is it equipment for making \u2018talking\u2019 books and newspapers?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "Are you selling lifeboats and associated equipment, including fuel?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Are you selling medicine or ingredients for medicine?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Is it resuscitation training models?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "e255919dae61a224595fb5b8b3cfecb9eec212cb",
+        "tree_id": "3e736618f875de698bb1014c687ea46902070cc4",
+        "source_url": "https://www.gov.uk/vat-businesses/charging-vat-to-charities",
+        "snippet": "### Equipment for medical and veterinary use\n\nYou may also be able to zero-rate some other medical and veterinary equipment when you sell it to:\n\n* charities that provide rescue or first aid services to humans or animals\n* someone buying it specifically for donation to one of these bodies",
+        "question": "May I be able to zero-rate this medical equipment?",
+        "scenario": "I still have the equipment.  It's in my storage right now.",
+        "answer": "No",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Did you sell the equipment to charities that provide rescue or first aid services to humans or animals?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Did you sell the equipment to someone buying it specifically for donation to one of these bodies?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "ad6e90adc7dbf212a5b99f7b320cbd2b66f488ed",
+        "tree_id": "6d122da9b23390b95f675155ae6b45d7ad807eed",
+        "source_url": "https://www.doh.wa.gov/YouandYourFamily/Marijuana/MedicalMarijuana/PatientInformation",
+        "snippet": "## Age restrictions\n\nPatients under the age of 18 must have a designated provider. Patients under the age of 21 cannot participate in a cooperative garden or receive marijuana that was produced, processed or delivered through a cooperative garden. The patient\u2019s designated provider may participate in a cooperative garden on behalf of the patient.",
+        "question": "Do I have to have a designated provider?",
+        "scenario": "I am 16 years old and receiving medical attention for a heart condition I was born with.",
+        "answer": "Yes",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Are you a patient under the age of 18?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "767e42c2bfe1df570753ef8ec46192a963269f2c",
+        "tree_id": "88556f63d7e24ced050ae922f6613fedc75437d2",
+        "source_url": "https://www.gov.uk/holiday-entitlement-rights/taking-holiday-before-leaving-a-job",
+        "snippet": "## Taking more leave than the entitlement\n\nIf a worker has taken more leave than they\u2019re entitled to, their employer must not take money from their final pay unless it\u2019s been agreed beforehand in writing. The rules in this situation should be outlined in the employment contract, company handbook or intranet site.",
+        "question": "Can my employer take money from my final pay?",
+        "scenario": "I technically took more leave than I was entitled to and I didn't agree to it before I went on leave. Can my employer take money from my final pay?",
+        "answer": "Yes",
+        "history": [
+            {
+                "follow_up_question": "Did you take more leave than they\u2019re entitled to?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "Did you agree to it beforehand?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "9a035cb39ed7f67933a54a9eb679d275fc6d0a2c",
+        "tree_id": "ebedfa074ae01f664445d24dd4b744f4209e6927",
+        "source_url": "https://www.gov.uk/vat-businesses/charging-vat-to-charities",
+        "snippet": "## Items that qualify for the zero rate\n\nThe eligible items include:\n\n* rescue equipment\n* resuscitation training dummies",
+        "question": "Is this item eligible?",
+        "scenario": "I am a 56 year old man with a business who manufactures rescue equipment. The item is rescue equipment.",
+        "answer": "Yes",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Is it rescue equipment?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "5be6a5caae84cd22f7aeb2842211784dea882a46",
+        "tree_id": "6de20194ab323890c078be39594a06a1e4e68db8",
+        "source_url": "https://www.benefits.gov/benefits/benefit-details/771",
+        "snippet": "## General Program Requirements\n\nIn order to qualify for this benefit program, you must be a Native American/American Indian who has been accepted or enrolled in an accredited degree program, college or university to study in the field of health care, and you or your family member must be enrolled in a federally recognized American Indian tribe or Alaska Native village.",
+        "question": "Do I qualify for this benefit program?",
+        "scenario": "Yes, we are part of the Cherokee tribe. No, I don't get repayments from benefits.",
+        "answer": "Have you been accepted or enrolled in an accredited degree program, college or university to study in the field of health care?",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Are you a Native American/American Indian?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "f67408382299e6fa1030e04ef8b4c1cc7924da8c",
+        "tree_id": "12c6078ef968d7be91a1f43dc0a3d61eda3386a3",
+        "source_url": "https://www.usa.gov/grants",
+        "snippet": "##Who May Receive a Grant?\n\nContrary to what you might see online or in the media, the federal government does not offer grants or \u201cfree money\u201d to individuals to start a business, or cover personal expenses.",
+        "question": "Can I get a grant from federal government?",
+        "scenario": "No, it's not for any personal reason. I reached pension age 10 years ago.",
+        "answer": "is it to start a business?",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Is it to cover personal expenses?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "862a1dc353567756c5ad1c274b1dd49ed2aba27f",
+        "tree_id": "ac40162e1dc6c936d60476a8fc84f905a8f7caba",
+        "source_url": "https://www.benefits.gov/benefits/benefit-details/286",
+        "snippet": "You may be an eligible Veteran if:\n\n* You have an Honorable Discharge, and\n* You have a High School Diploma (or equivalent) - or 12 hours of college credit, and\n* You meet the requirements under one of the four categories, listed on the Department of Veterans Affairs (VA) Montgomery GI Bill Active Duty page",
+        "question": "May I be an eligible Veteran?",
+        "scenario": "No, I didn't serve in the military and am not eligible.",
+        "answer": "No",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Do you have an honorable discharge?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "66a16318dd55bfa467fc2548751df6cd1437b586",
+        "tree_id": "1fd4dc9bc9c71abd49429b9fd3daa9a0ae05c9b8",
+        "source_url": "https://www.gov.uk/vat-businesses/charging-vat-to-charities",
+        "snippet": "## Items that qualify for the zero rate\n\nThe eligible items include:\n\n* medical, veterinary and scientific equipment\n* ambulances\n* goods for disabled people\n* motor vehicles for medical use",
+        "question": "Is this item eligible?",
+        "scenario": "I have questions about item eligibility. The item in question here is an ambulance.",
+        "answer": "Yes",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Is the item medical, veterinary and scientific equipment?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Is the item an ambulance?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "6e480b3abd71e65267f83faa09fd326086939d82",
+        "tree_id": "12c6078ef968d7be91a1f43dc0a3d61eda3386a3",
+        "source_url": "https://www.usa.gov/grants",
+        "snippet": "##Who May Receive a Grant?\n\nContrary to what you might see online or in the media, the federal government does not offer grants or \u201cfree money\u201d to individuals to start a business, or cover personal expenses.",
+        "question": "Can I get a grant from federal government?",
+        "scenario": "I'd like to get a big chunk of change from the feds and give it all to charity.",
+        "answer": "No",
+        "history": [
+            {
+                "follow_up_question": "Is it to cover personal expenses?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "is it to start a business?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "3bdd3d6057c11767a0d9bd80c8fae908fc5d0553",
+        "tree_id": "2c7c37769eb365976fb91d3888ae8eaac206e47d",
+        "source_url": "https://www.gov.uk/maternity-pay-leave/eligibility",
+        "snippet": "## Statutory Maternity Pay\n\nTo qualify for SMP you must:\n\n* earn on average at least \u00a3113 a week\n* give the correct notice\n* give proof you\u2019re pregnant\n* have worked for your employer continuously for at least 26 weeks continuing into the \u2018qualifying week\u2019 - the 15th week before the expected week of childbirth",
+        "question": "Do I qualify for SMP?",
+        "scenario": "I found out I was pregnant and gave the right notice.  I had been at my job for about two months making 200 pounds per week until then.",
+        "answer": "No",
+        "history": [
+            {
+                "follow_up_question": "Do you earn on average at least \u00a3113 a week?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "Did you give the correct notice?",
+                "follow_up_answer": "Yes"
+            },
+            {
+                "follow_up_question": "Did you give proof you\u2019re pregnant?",
+                "follow_up_answer": "Yes"
+            },
+            {
+                "follow_up_question": "Have you worked for your employer continuously for at least 26 weeks continuing into the \u2018qualifying week\u2019 - the 15th week before the expected week of childbirth?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "4410bf61506023a7df5da014db38cc317f96f599",
+        "tree_id": "b567078c5986d40efaeeebb008763f7d258a4a7b",
+        "source_url": "https://www.doh.wa.gov/YouandYourFamily/Marijuana/MedicalMarijuana/PatientInformation",
+        "snippet": "## Patient Information\n\nHealthcare practitioners may authorize the use of marijuana for any patient as long as it's medically appropriate under the law and the profession\u2019s standard of care. The Department of Health doesn't keep a list of those specific practitioners that are authorizing, however there is a list of healthcare practitioners that are allowed to authorize marijuana for medical marijuana.",
+        "question": "Could I authorize the use of marijuana for this patient?",
+        "scenario": "I want to prescribe marijuana for glaucoma.",
+        "answer": "Yes",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "If it medically appropriate?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "b5964169a1fe91a992a75663649f3e48749ffeb0",
+        "tree_id": "8910894704c8f4763519b6d4dcb6606da09cc79b",
+        "source_url": "https://www.irs.gov/newsroom/tax-relief-in-disaster-situations",
+        "snippet": "# Tax Relief in Disaster Situations\n\nIRS is providing a variety of tax relief for those affected by Hurricanes Irma and Maria.",
+        "question": "Could tax relief provided by IRS apply to me?",
+        "scenario": "I was unaffected by Hurricanes Irma and Maria.",
+        "answer": "No",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Were you affected by Hurricanes Irma or Maria?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "b362d95c674030362d61d29f794cd6033326b1de",
+        "tree_id": "4129d04818494dd05a0f1b466c72f4d75518d6f0",
+        "source_url": "https://www.gov.uk/getting-help-with-your-tax-credits-claim/authorisation",
+        "snippet": "## If you act for a lot of clients\n\nWrite to the Tax Credit Office to register as an \u2018intermediary organisation\u2019 if you work in the voluntary sector and act for many people.",
+        "question": "Can I claim tax credits for a lot of clients?",
+        "scenario": "I run a technical assistance company and I have sent letters to the Tax Credit Office to register it as an intermediary organisation.",
+        "answer": "Yes",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Have you written to the Tax Credit Office to register as an \u2018intermediary organisation\u2019?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "a49e75d09c5b16d0691da0c4ae085872537a5d01",
+        "tree_id": "de4e2be4ef3d3ed7a9559646c3b8e997ed1c514a",
+        "source_url": "https://www.gov.uk/maternity-pay-leave/eligibility",
+        "snippet": "## Statutory Maternity Pay\n\nYou can\u2019t get SMP if you go into police custody during your maternity pay period. It won\u2019t restart when you\u2019re discharged.",
+        "question": "Can I get SMP?",
+        "scenario": "I have never been arrested",
+        "answer": "Yes",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Have you gone into police custody during your maternity pay period?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "f8fdc66255cf760585b2f47701fb47376eabe343",
+        "tree_id": "860c8f7cadd849e8d263ecba19f76c4af440b88c",
+        "source_url": "https://www.gov.uk/maternity-pay-leave/eligibility",
+        "snippet": "## Statutory Maternity Pay\n\nYou can still get Statutory Maternity Leave and SMP if your baby:\n\n* is born early\n* is stillborn after the start of your 24th week of pregnancy\n* dies after being born",
+        "question": "Can I get Statutory Maternity Leave?",
+        "scenario": "I miscarried on the 7th month.",
+        "answer": "Yes",
+        "history": [
+            {
+                "follow_up_question": "Was your baby born early?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "Was your baby stillborn after the start of your 24th week of pregnancy?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "bdafe4ed9c2a75a2e7a43ba55040c63a907f89ed",
+        "tree_id": "383e069af14576defd006b051b347be9ad0196ad",
+        "source_url": "https://www.gov.uk/vat-businesses/charging-vat-to-charities",
+        "snippet": "## Items that qualify for the zero rate\n\nYou may be able to apply zero VAT when you sell the following to an eligible charity:\n\n* equipment for making \u2018talking\u2019 books and newspapers\n* lifeboats and associated equipment, including fuel\n* medicine or ingredients for medicine\n* resuscitation training models",
+        "question": "Can I apply zero VAT to this item?",
+        "scenario": "I have a health food store.  I sell smoothies, supplements, vitamins and related items.",
+        "answer": "Is it equipment for making \u2018talking\u2019 books and newspapers?",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Is it equipment for making \u2018talking\u2019 books and newspapers?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Are you selling lifeboats and associated equipment, including fuel?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Are you selling medicine or ingredients for medicine?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "7924151ffa642b82a002eb1ebd478d564fbfadf9",
+        "tree_id": "7b4b41aee46cbc59b2c3f1ae93bda0a471bf70c5",
+        "source_url": "https://www.gov.uk/state-pension/inheritance",
+        "snippet": "## You\u2019re single or divorced\n\nIf you\u2019re single, divorced or your civil partnership was dissolved and you die after you\u2019ve reached State Pension age, your estate can claim up to 3 months of your basic State Pension. They can only do this if you hadn\u2019t claimed it.",
+        "question": "Can my estate claim up to 3 months of my basic State Pension?",
+        "scenario": "I am very much still alive and kicking!",
+        "answer": "No",
+        "history": [
+            {
+                "follow_up_question": "Are you single, divorced, or have dissolved a civil partnership?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "Did you die after you've reached the State Pension age?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "22935614c1ecc20f820405daab05d74f1412b916",
+        "tree_id": "1fd4dc9bc9c71abd49429b9fd3daa9a0ae05c9b8",
+        "source_url": "https://www.gov.uk/vat-businesses/charging-vat-to-charities",
+        "snippet": "## Items that qualify for the zero rate\n\nThe eligible items include:\n\n* medical, veterinary and scientific equipment\n* ambulances\n* goods for disabled people\n* motor vehicles for medical use",
+        "question": "Is this item eligible?",
+        "scenario": "I received a bill for an ambulance because I called them when my water broke to take me to the hospital.",
+        "answer": "Yes",
+        "history": [
+            {
+                "follow_up_question": "Is the item medical, veterinary and scientific equipment?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "Is the item an ambulance?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "0f95a83183ada5dc71b346a052ec254ffa3641e6",
+        "tree_id": "95222ed436cbf83e71c65f1021aee2a7e7211313",
+        "source_url": "https://www.benefits.gov/benefits/benefit-details/569",
+        "snippet": "If you are a female Vietnam Veteran with a child who has a birth defect or you are a child of a female Vietnam Veteran with a birth defect, the child may be eligible for VA-financed health care.",
+        "question": "Is my child eligible for VA-financed health care?",
+        "scenario": "I'm a 68 year old man.  I'm retired now, but I worked all my life.  I also served in the military.  I was in active duty in Vietnam.",
+        "answer": "No",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Are you a female Vietnam Veteran?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Are you the child of a Vietnam Veteran?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "54993d19d9c9055fc8463c795ebaf914c0e499b4",
+        "tree_id": "95222ed436cbf83e71c65f1021aee2a7e7211313",
+        "source_url": "https://www.benefits.gov/benefits/benefit-details/569",
+        "snippet": "If you are a female Vietnam Veteran with a child who has a birth defect or you are a child of a female Vietnam Veteran with a birth defect, the child may be eligible for VA-financed health care.",
+        "question": "Is my child eligible for VA-financed health care?",
+        "scenario": "I am a 40 year old man from the United States. Nobody in my family (including me) has ever been associated with the Vietnam war.",
+        "answer": "No",
+        "history": [
+            {
+                "follow_up_question": "Are you a female Vietnam Veteran?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "Are you the child of a Vietnam Veteran?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "cff6e23bab309ea3a43b7b9c8051e16f4c2dcc7c",
+        "tree_id": "e9282accd6fcfbce424d3bfd2800541f30f7c335",
+        "source_url": "https://www.dmv.org/vt-vermont/safety-laws.php",
+        "snippet": "Child Car Seat Laws",
+        "question": "Does my kid need to ride in a federally-approved child safety seat?",
+        "scenario": "My child is 3 years old.",
+        "answer": "Yes",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Is this a child?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "3c3a6da1dad9afcae95176aa50811ec9cde17b64",
+        "tree_id": "383e069af14576defd006b051b347be9ad0196ad",
+        "source_url": "https://www.gov.uk/vat-businesses/charging-vat-to-charities",
+        "snippet": "## Items that qualify for the zero rate\n\nYou may be able to apply zero VAT when you sell the following to an eligible charity:\n\n* equipment for making \u2018talking\u2019 books and newspapers\n* lifeboats and associated equipment, including fuel\n* medicine or ingredients for medicine\n* resuscitation training models",
+        "question": "Can I apply zero VAT to this item?",
+        "scenario": "I am selling rowboats.",
+        "answer": "No",
+        "history": [
+            {
+                "follow_up_question": "Is it equipment for making \u2018talking\u2019 books and newspapers?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Are you selling lifeboats and associated equipment, including fuel?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Are you selling medicine or ingredients for medicine?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "Is it resuscitation training models?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "72a10f0b5d48c209a19645f9ee2ec86654d49282",
+        "tree_id": "1fd4dc9bc9c71abd49429b9fd3daa9a0ae05c9b8",
+        "source_url": "https://www.gov.uk/vat-businesses/charging-vat-to-charities",
+        "snippet": "## Items that qualify for the zero rate\n\nThe eligible items include:\n\n* medical, veterinary and scientific equipment\n* ambulances\n* goods for disabled people\n* motor vehicles for medical use",
+        "question": "Is this item eligible?",
+        "scenario": "I am trying to purchase food for my blind aunt.",
+        "answer": "Yes",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Is the item medical, veterinary and scientific equipment?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Is the item an ambulance?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Is the item goods for disabled people?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "16c816e042a8eed626f200fb4c11ffed4e41de49",
+        "tree_id": "ac40162e1dc6c936d60476a8fc84f905a8f7caba",
+        "source_url": "https://www.benefits.gov/benefits/benefit-details/286",
+        "snippet": "You may be an eligible Veteran if:\n\n* You have an Honorable Discharge, and\n* You have a High School Diploma (or equivalent) - or 12 hours of college credit, and\n* You meet the requirements under one of the four categories, listed on the Department of Veterans Affairs (VA) Montgomery GI Bill Active Duty page",
+        "question": "May I be an eligible Veteran?",
+        "scenario": "No, I didn't serve in the military and am not eligible.",
+        "answer": "No",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Do you have an honorable discharge?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "d4b51406a3612ae0e2c8a99475471ddecd9039b1",
+        "tree_id": "77077a4e431ff3a0219f3eaac60660db147155ef",
+        "source_url": "https://www.gov.uk/guidance/export-products-made-from-endangered-animals-special-rules",
+        "snippet": "#  Export products made from endangered animals: special rules\n\nThere are special rules for products made with elephant ivory, rhino horn, tigers and their parts and derivatives, bear bile, bear paws and gallbladders, and eggs of native British birds. They can only be exported in special cases like for scientific research, if they\u2019re family heirlooms or valuable artworks.",
+        "question": "Can I export products made from this animal?",
+        "scenario": "They're heirlooms that are absolutely precious to me, as they have been passed down to my mother and now to me",
+        "answer": "Yes",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Are they for scientific research, if they\u2019re family heirlooms or valuable artworks?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "8d688f89cec06e9af606706c600159eb38283314",
+        "tree_id": "45c0b83ec88820c3c9c4a8d3b94d1051fce9e3ec",
+        "source_url": "https://www.benefits.gov/benefits/benefit-details/1503",
+        "snippet": "In order to qualify for this benefit program, homeowners and renters must have sustained physical damage and be located in a disaster declared county.",
+        "question": "Do I qualify for this loan?",
+        "scenario": "I live in Montgomery county Texas but thankfully my home was not affected when hurricane Harvey flooded all of Huston.",
+        "answer": "No",
+        "history": [
+            {
+                "follow_up_question": "Are you located in a disaster declared county?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "Did your residence suffer sustained physical damage?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "244810d5780687cd5757a574f8d9b350952c6d53",
+        "tree_id": "95222ed436cbf83e71c65f1021aee2a7e7211313",
+        "source_url": "https://www.benefits.gov/benefits/benefit-details/569",
+        "snippet": "If you are a female Vietnam Veteran with a child who has a birth defect or you are a child of a female Vietnam Veteran with a birth defect, the child may be eligible for VA-financed health care.",
+        "question": "Is my child eligible for VA-financed health care?",
+        "scenario": "I am a 30 year old man. My father was a Vietnam Veteran. I have no birth defects.",
+        "answer": "No",
+        "history": [
+            {
+                "follow_up_question": "Are you a female Vietnam Veteran?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "Are you the child of a Vietnam Veteran?",
+                "follow_up_answer": "Yes"
+            },
+            {
+                "follow_up_question": "Do you have a birth defect?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "d5beb3534b96829a01804464d78b2c3f50f3e018",
+        "tree_id": "383e069af14576defd006b051b347be9ad0196ad",
+        "source_url": "https://www.gov.uk/vat-businesses/charging-vat-to-charities",
+        "snippet": "## Items that qualify for the zero rate\n\nYou may be able to apply zero VAT when you sell the following to an eligible charity:\n\n* equipment for making \u2018talking\u2019 books and newspapers\n* lifeboats and associated equipment, including fuel\n* medicine or ingredients for medicine\n* resuscitation training models",
+        "question": "Can I apply zero VAT to this item?",
+        "scenario": "I am a biochemist living in the United States.  I recently joined the pharmaceutical industry as a subject matter expert for antidepressants and have been involved in marketing and sales. The scope of my employment is strictly limited to speaking roles and I do not handle \"equipment\" of any kind.",
+        "answer": "Yes",
+        "history": [
+            {
+                "follow_up_question": "Is it equipment for making \u2018talking\u2019 books and newspapers?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "Are you selling lifeboats and associated equipment, including fuel?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Are you selling medicine or ingredients for medicine?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "e3343758eb70a17e9945fe48bc08078213cfddbe",
+        "tree_id": "879f8f07a2a479b1bc61760b2f62b73a973f52f4",
+        "source_url": "https://www.gov.uk/additional-state-pension",
+        "snippet": "#  1. Overview\n\nThe Additional State Pension is an extra amount of money you could get on top of your basic State Pension if you\u2019re:\n\n* a man born before 6 April 1951\n* a woman born before 6 April 1953",
+        "question": "Can I get Additional State Pension?",
+        "scenario": "I'm a married man.  My wife and I were both born in 1948.",
+        "answer": "Yes",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Are you a woman born before 6 April 1953?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "1ed97d0b16e9842b3a85642f25008430446cf48a",
+        "tree_id": "c01a595f8a56f2058ad2d6ccc1d381f1306185c5",
+        "source_url": "https://www.gov.uk/benefits-calculators",
+        "snippet": "Use an independent benefits calculator to find out:\n\n* what benefits you could get\n* how to claim\n* how your benefits will be affected if you start work",
+        "question": "Should I use an independent benefits calculator for this?",
+        "scenario": "I need to find out if there will be a change in my pension payments since my taxable turnover was only \u00a372,000",
+        "answer": "Yes",
+        "history": [
+            {
+                "follow_up_question": "Do you need to find out what benefits you could get?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Do you need to figure out how to claim benefits?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "Do you need to figure out how your benefits will be affected if you start work?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "5796a695ceeb669d9fb25c3312a9ef9db292894d",
+        "tree_id": "a99e2fe2f6b849dda4ec5ce89679531c8d2f0e1d",
+        "source_url": "https://www.gov.uk/tax-on-pension/tax-when-you-live-abroad",
+        "snippet": "#  4. Tax when you live abroad\n\nIf you\u2019re not a UK resident, you don\u2019t usually pay UK tax on your pension. But you might have to pay tax in the country you live in. There are a few exceptions - for example, UK civil service pensions will always be taxed in the UK.",
+        "question": "Do I need to pay UK tax on my pension?",
+        "scenario": "I am not receiving a UK civil service pension. I will notify you of any changes to my business or the goods and services I provide.",
+        "answer": "No",
+        "history": [
+            {
+                "follow_up_question": "Are you a UK resident?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "Are you receiving a UK civil service pension?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "dccb486236836ab269d128aca3f74f26ce752986",
+        "tree_id": "1fd4dc9bc9c71abd49429b9fd3daa9a0ae05c9b8",
+        "source_url": "https://www.gov.uk/vat-businesses/charging-vat-to-charities",
+        "snippet": "## Items that qualify for the zero rate\n\nThe eligible items include:\n\n* medical, veterinary and scientific equipment\n* ambulances\n* goods for disabled people\n* motor vehicles for medical use",
+        "question": "Is this item eligible?",
+        "scenario": "The item is sports car.",
+        "answer": "No",
+        "history": [
+            {
+                "follow_up_question": "Is the item medical, veterinary and scientific equipment?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Is the item an ambulance?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Is the item goods for disabled people?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "is it motor vehicles for medical use?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "ad993643111e7960b3ca8c377271bc1ce5d7bccb",
+        "tree_id": "ac40162e1dc6c936d60476a8fc84f905a8f7caba",
+        "source_url": "https://www.benefits.gov/benefits/benefit-details/286",
+        "snippet": "You may be an eligible Veteran if:\n\n* You have an Honorable Discharge, and\n* You have a High School Diploma (or equivalent) - or 12 hours of college credit, and\n* You meet the requirements under one of the four categories, listed on the Department of Veterans Affairs (VA) Montgomery GI Bill Active Duty page",
+        "question": "May I be an eligible Veteran?",
+        "scenario": "I was in the military for more than 12 years until last year when I was dishonorably discharged for sexual misconduct.  It also cost me my marriage. I remarried a British lady 3 months ago and moved to London. I am currently trying to get a job in London, as my wife and I don't have any plans to leave the UK for at least 5 years.",
+        "answer": "No",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Do you have an honorable discharge?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "86571c99dbc4b4b0207ef535d45fd7a5f33e6e3b",
+        "tree_id": "caafba2e62744a7893ad0f4147c4dc5a7b41582a",
+        "source_url": "https://www.gov.uk/getting-help-with-your-tax-credits-claim/authorisation",
+        "snippet": "## Get authorised\n\nSend form TC689 to the Tax Credit Office. This must be signed by the person (or persons if it\u2019s a joint claim) you\u2019re representing.",
+        "question": "Can I send form TC689 to the Tax Credit Office to get authorised?",
+        "scenario": "I have the form in front of me.  I signed it myself.  It does have my client's name on it though.",
+        "answer": "No",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Is it signed by the person or person you are representing?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "337dd41ab0a3f363798bb6f1d7912d194408d800",
+        "tree_id": "45c0b83ec88820c3c9c4a8d3b94d1051fce9e3ec",
+        "source_url": "https://www.benefits.gov/benefits/benefit-details/1503",
+        "snippet": "In order to qualify for this benefit program, homeowners and renters must have sustained physical damage and be located in a disaster declared county.",
+        "question": "Do I qualify for this loan?",
+        "scenario": "My home was recently destroyed by a tornado, and my county was officially declared a disaster zone. I need to know if I qualify for this loan?",
+        "answer": "Yes",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Are you located in a disaster declared county?",
+                "follow_up_answer": "Yes"
+            },
+            {
+                "follow_up_question": "Did your residence suffer sustained physical damage?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "6a84a1356c9135acf61272ce0244d8c3bf046a92",
+        "tree_id": "c89f1a202759a9d0b56e826284f6f4da9ba5118e",
+        "source_url": "https://www.humanservices.gov.au/organisations/health-professionals/enablers/form-upload-hpos",
+        "snippet": "## File requirements\n\nEach attachment must be less than 10MB. If it's larger compress it or send it by post. The blue bar above your attachments shows the MB used per upload.",
+        "question": "Can I upload the attachment?",
+        "scenario": "The attachment right now isn't less than 10MB, but I think I can compress so it becomes less than 10MB",
+        "answer": "Yes",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Is the attachment less than 10MB?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Can you compress the attachment to less than 10MB?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "4cc1c262ec1ab058f9eae841492c2773b9ce92bc",
+        "tree_id": "7553d2bb18b1dd559bc84172056bd49e9598d83e",
+        "source_url": "https://www.gov.uk/tax-credits-if-moving-country-or-travelling/going-abroad-temporarily",
+        "snippet": "#  2. Going abroad\n\nYou may still qualify for tax credits if you go abroad for a short period, for example on holiday or for medical treatment.",
+        "question": "May I still qualify for tax credits?",
+        "scenario": "I don't have any plans to leave the country  I've been working here for cash for the last few years.",
+        "answer": "No",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Are you going abroad for a short period?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "41424173594ac748f558a97e322d4029638b1cd1",
+        "tree_id": "6de20194ab323890c078be39594a06a1e4e68db8",
+        "source_url": "https://www.benefits.gov/benefits/benefit-details/771",
+        "snippet": "## General Program Requirements\n\nIn order to qualify for this benefit program, you must be a Native American/American Indian who has been accepted or enrolled in an accredited degree program, college or university to study in the field of health care, and you or your family member must be enrolled in a federally recognized American Indian tribe or Alaska Native village.",
+        "question": "Do I qualify for this benefit program?",
+        "scenario": "I am a Native American of Cherokee descent, and I have been unable to enroll in a university to obtain a health care degree.",
+        "answer": "No",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Are you a Native American/American Indian?",
+                "follow_up_answer": "Yes"
+            },
+            {
+                "follow_up_question": "Have you been accepted or enrolled in an accredited degree program, college or university to study in the field of health care?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "e60eb97ea160637769af71f80d5d0c886770d36d",
+        "tree_id": "566837f88b9807265aac87e768200b3ba7b63c4a",
+        "source_url": "https://www.gov.uk/benefits-calculators",
+        "snippet": "## What you\u2019ll need\n\nYou\u2019ll need accurate information about your:\n\n* savings\n* income, including your partner\u2019s (from payslips, for example)\n* existing benefits and pensions (including anyone living with you)\n* outgoings (such as rent, mortgage, childcare payments)",
+        "question": "Do I need information about this?",
+        "scenario": "The information I require is about my savings. I have up-to-date information regarding my income, but I don't know about my existing benefits.",
+        "answer": "Yes",
+        "history": [
+            {
+                "follow_up_question": "Is this information about your savings?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "Do you have accurate info about your income?",
+                "follow_up_answer": "Yes"
+            },
+            {
+                "follow_up_question": "Do you have info about your existing benefits?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "69e15140405d71bc54b8949a5f08cbd106226b00",
+        "tree_id": "2c7c37769eb365976fb91d3888ae8eaac206e47d",
+        "source_url": "https://www.gov.uk/maternity-pay-leave/eligibility",
+        "snippet": "## Statutory Maternity Pay\n\nTo qualify for SMP you must:\n\n* earn on average at least \u00a3113 a week\n* give the correct notice\n* give proof you\u2019re pregnant\n* have worked for your employer continuously for at least 26 weeks continuing into the \u2018qualifying week\u2019 - the 15th week before the expected week of childbirth",
+        "question": "Do I qualify for SMP?",
+        "scenario": "I am expecting my baby within the next 5 months. Unfortunately, I did not give my employer notice.",
+        "answer": "No",
+        "history": [
+            {
+                "follow_up_question": "Do you earn on average at least \u00a3113 a week?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "Did you give the correct notice?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "7fefdd11e7b9726f9df5fa3b0a4d8148a19684c2",
+        "tree_id": "4997b5849900f91cab777a6eeb44055d2c03032e",
+        "source_url": "https://www.gov.uk/guidance/export-products-made-from-endangered-animals-special-rules",
+        "snippet": "#  Export products made from endangered animals: special rules\n\nIf the animal is classed as B, C or D, you don\u2019t need to do anything.",
+        "question": "Can I export products made from this animal?",
+        "scenario": "I am currently exporting products made from rodents.",
+        "answer": "No",
+        "history": [
+            {
+                "follow_up_question": "Is this animal endangered?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "Is this animal animal is classed as B, C or D?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "44916bc9fa24ff47b7a066b893b395852b8a841d",
+        "tree_id": "879f8f07a2a479b1bc61760b2f62b73a973f52f4",
+        "source_url": "https://www.gov.uk/additional-state-pension",
+        "snippet": "#  1. Overview\n\nThe Additional State Pension is an extra amount of money you could get on top of your basic State Pension if you\u2019re:\n\n* a man born before 6 April 1951\n* a woman born before 6 April 1953",
+        "question": "Can I get Additional State Pension?",
+        "scenario": "I'm male, and I was born in 1960",
+        "answer": "No",
+        "history": [
+            {
+                "follow_up_question": "Are you a woman born before 6 April 1953?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "Are you a woman born before 6 April 1953?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "f295ec089aeb0e5676b7755284dd6f9830236894",
+        "tree_id": "566837f88b9807265aac87e768200b3ba7b63c4a",
+        "source_url": "https://www.gov.uk/benefits-calculators",
+        "snippet": "## What you\u2019ll need\n\nYou\u2019ll need accurate information about your:\n\n* savings\n* income, including your partner\u2019s (from payslips, for example)\n* existing benefits and pensions (including anyone living with you)\n* outgoings (such as rent, mortgage, childcare payments)",
+        "question": "Do I need information about this?",
+        "scenario": "This is pertaining to my savings and I do not currently have any information about existing benefits. I would like to know if I need more information about this?",
+        "answer": "Do you have accurate info about your income?",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Is this information about your savings?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "34b8764e7dbcffe738e72e054407d3bfd5703972",
+        "tree_id": "7d6c8794f19c39ca2d6e0275dd8e6b86b9d42881",
+        "source_url": "https://www.gov.uk/apply-council-tax-reduction",
+        "snippet": "Apply to your local council for Council Tax Reduction if you're on a low income or benefits - this has replaced Council Tax Benefit",
+        "question": "Can I apply for Council Tax Reduction?",
+        "scenario": "I'm not currently getting any kind of low income benefits",
+        "answer": "No",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Are you on a low income or benefits?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "660213f634625ca8fdaf42e2c060eeec7a45cd8e",
+        "tree_id": "566837f88b9807265aac87e768200b3ba7b63c4a",
+        "source_url": "https://www.gov.uk/benefits-calculators",
+        "snippet": "## What you\u2019ll need\n\nYou\u2019ll need accurate information about your:\n\n* savings\n* income, including your partner\u2019s (from payslips, for example)\n* existing benefits and pensions (including anyone living with you)\n* outgoings (such as rent, mortgage, childcare payments)",
+        "question": "Do I need information about this?",
+        "scenario": "The information I am inquiring about regards my savings, and the information I have about my income is not up to date. I have been approved as a care provider for the elderly, and I do not live in government-supported housing. The airport manager's representative will be available from 6:00 am to 11:00 pm.",
+        "answer": "Yes",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Is this information about your savings?",
+                "follow_up_answer": "Yes"
+            },
+            {
+                "follow_up_question": "Do you have accurate info about your income?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "a1159bd22fcc4dfc1516c137d1ac5c73ff73ac18",
+        "tree_id": "95222ed436cbf83e71c65f1021aee2a7e7211313",
+        "source_url": "https://www.benefits.gov/benefits/benefit-details/569",
+        "snippet": "If you are a female Vietnam Veteran with a child who has a birth defect or you are a child of a female Vietnam Veteran with a birth defect, the child may be eligible for VA-financed health care.",
+        "question": "Is my child eligible for VA-financed health care?",
+        "scenario": "I am not a Vietnam vet, but I do have a birth defect",
+        "answer": "Yes",
+        "history": [
+            {
+                "follow_up_question": "Are you a female Vietnam Veteran?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Are you the child of a Vietnam Veteran?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "Do you have a birth defect?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "29553dc7245398dd02f04b685584182db48abf69",
+        "tree_id": "879f8f07a2a479b1bc61760b2f62b73a973f52f4",
+        "source_url": "https://www.gov.uk/additional-state-pension",
+        "snippet": "#  1. Overview\n\nThe Additional State Pension is an extra amount of money you could get on top of your basic State Pension if you\u2019re:\n\n* a man born before 6 April 1951\n* a woman born before 6 April 1953",
+        "question": "Can I get Additional State Pension?",
+        "scenario": "My husband and I were both born in the 40s.  I have had bladder infections, but never had problems with my kidneys.",
+        "answer": "Yes",
+        "history": [
+            {
+                "follow_up_question": "Are you a woman born before 6 April 1953?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "Are you a woman born before 6 April 1953?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "76abe03f0aa734f889a4e758f85d88b01d4dd570",
+        "tree_id": "1fd4dc9bc9c71abd49429b9fd3daa9a0ae05c9b8",
+        "source_url": "https://www.gov.uk/vat-businesses/charging-vat-to-charities",
+        "snippet": "## Items that qualify for the zero rate\n\nThe eligible items include:\n\n* medical, veterinary and scientific equipment\n* ambulances\n* goods for disabled people\n* motor vehicles for medical use",
+        "question": "Is this item eligible?",
+        "scenario": "I am curious about item eligibility. The item in question is meat thermometers.",
+        "answer": "No",
+        "history": [
+            {
+                "follow_up_question": "Is the item medical, veterinary and scientific equipment?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Is the item an ambulance?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Is the item goods for disabled people?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "is it motor vehicles for medical use?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "c87cad5c1ab46edeed429b7e19a7b132ec092f8c",
+        "tree_id": "383e069af14576defd006b051b347be9ad0196ad",
+        "source_url": "https://www.gov.uk/vat-businesses/charging-vat-to-charities",
+        "snippet": "## Items that qualify for the zero rate\n\nYou may be able to apply zero VAT when you sell the following to an eligible charity:\n\n* equipment for making \u2018talking\u2019 books and newspapers\n* lifeboats and associated equipment, including fuel\n* medicine or ingredients for medicine\n* resuscitation training models",
+        "question": "Can I apply zero VAT to this item?",
+        "scenario": "The item is not equipment for audio books or newspapers, and I'm not selling lifeboats or anything related to that. It's for medicine and medicinal ingredients.",
+        "answer": "Yes",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Is it equipment for making \u2018talking\u2019 books and newspapers?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Are you selling lifeboats and associated equipment, including fuel?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Are you selling medicine or ingredients for medicine?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "2dea31888fe541d0175acad28f403bc4568a7710",
+        "tree_id": "383e069af14576defd006b051b347be9ad0196ad",
+        "source_url": "https://www.gov.uk/vat-businesses/charging-vat-to-charities",
+        "snippet": "## Items that qualify for the zero rate\n\nYou may be able to apply zero VAT when you sell the following to an eligible charity:\n\n* equipment for making \u2018talking\u2019 books and newspapers\n* lifeboats and associated equipment, including fuel\n* medicine or ingredients for medicine\n* resuscitation training models",
+        "question": "Can I apply zero VAT to this item?",
+        "scenario": "The equipment is for printing out newspapers for our local high school.",
+        "answer": "Yes",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Is it equipment for making \u2018talking\u2019 books and newspapers?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "6bcfe58b999c0dc3caf065f06aa342938e90078f",
+        "tree_id": "383e069af14576defd006b051b347be9ad0196ad",
+        "source_url": "https://www.gov.uk/vat-businesses/charging-vat-to-charities",
+        "snippet": "## Items that qualify for the zero rate\n\nYou may be able to apply zero VAT when you sell the following to an eligible charity:\n\n* equipment for making \u2018talking\u2019 books and newspapers\n* lifeboats and associated equipment, including fuel\n* medicine or ingredients for medicine\n* resuscitation training models",
+        "question": "Can I apply zero VAT to this item?",
+        "scenario": "The equipment is for mobility purposes.",
+        "answer": "Are you selling lifeboats and associated equipment, including fuel?",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Is it equipment for making \u2018talking\u2019 books and newspapers?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "3073a477ab9ab565b112d731653def68e746459b",
+        "tree_id": "383e069af14576defd006b051b347be9ad0196ad",
+        "source_url": "https://www.gov.uk/vat-businesses/charging-vat-to-charities",
+        "snippet": "## Items that qualify for the zero rate\n\nYou may be able to apply zero VAT when you sell the following to an eligible charity:\n\n* equipment for making \u2018talking\u2019 books and newspapers\n* lifeboats and associated equipment, including fuel\n* medicine or ingredients for medicine\n* resuscitation training models",
+        "question": "Can I apply zero VAT to this item?",
+        "scenario": "The items in question are designed to make audio publications for people with limited or no sight as I believe they should not be stripped of their ability to enjoy the words man has written just because they have been stripped of the ability to see those words.",
+        "answer": "Yes",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Is it equipment for making \u2018talking\u2019 books and newspapers?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "5a017373bddbaf2f947853954156b45eb19ce7ca",
+        "tree_id": "abcc4e0c73a48667dfc9c3735f44a0946af673a2",
+        "source_url": "https://www.humanservices.gov.au/individuals/subjects/thinking-about-aged-care",
+        "snippet": "## Other payments and services\n\nYou can access information, support and short term counselling. If you\u2019re going through a difficult time, find out more about our social work services.",
+        "question": "Should I seek more information about the social work services?",
+        "scenario": "I am financially stable and doing very well in life. ",
+        "answer": "No",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Are you going through a difficult time?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "d699780829dceda86a29514db8c460a192072088",
+        "tree_id": "95222ed436cbf83e71c65f1021aee2a7e7211313",
+        "source_url": "https://www.benefits.gov/benefits/benefit-details/569",
+        "snippet": "If you are a female Vietnam Veteran with a child who has a birth defect or you are a child of a female Vietnam Veteran with a birth defect, the child may be eligible for VA-financed health care.",
+        "question": "Is my child eligible for VA-financed health care?",
+        "scenario": "I am a woman who was in Vietnam.",
+        "answer": "does your child have a birth defect?",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Are you a female Vietnam Veteran?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "cfca43f2dcfce6bf136f091b60c29fec813c4b73",
+        "tree_id": "1fd4dc9bc9c71abd49429b9fd3daa9a0ae05c9b8",
+        "source_url": "https://www.gov.uk/vat-businesses/charging-vat-to-charities",
+        "snippet": "## Items that qualify for the zero rate\n\nThe eligible items include:\n\n* medical, veterinary and scientific equipment\n* ambulances\n* goods for disabled people\n* motor vehicles for medical use",
+        "question": "Is this item eligible?",
+        "scenario": "I am curious about item eligibility. The item in question is a wheelchair.",
+        "answer": "Yes",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Is the item medical, veterinary and scientific equipment?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "f5668ee6f3e783cbd54b37e8eaaa4a66dcd2604c",
+        "tree_id": "395e049377c4b6d09a040239cfabd90a019d7c1f",
+        "source_url": "https://www.benefits.gov/benefits/benefit-details/286",
+        "snippet": "The Montgomery GI Bill (MGIB) is an educational assistance program enacted by Congress to attract high quality men and women into the Armed Forces. The MGIB-Active Duty program provides up to 36 months of education benefits to those who have served on active duty.",
+        "question": "Does this program meet my needs? Does this program apply to me?",
+        "scenario": "I'm hoping I can join the air force.  I think I would bring a lot to the force and I'm interested in getting help paying for school.",
+        "answer": "Yes",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Do you want to go into the armed forces?",
+                "follow_up_answer": "Yes"
+            },
+            {
+                "follow_up_question": "Do you consider yourself a high quality person?",
+                "follow_up_answer": "Yes"
+            },
+            {
+                "follow_up_question": "Do you want to receive educational benefits?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "0ff4d70487106f622740a43086d354850ccd7051",
+        "tree_id": "6de20194ab323890c078be39594a06a1e4e68db8",
+        "source_url": "https://www.benefits.gov/benefits/benefit-details/771",
+        "snippet": "## General Program Requirements\n\nIn order to qualify for this benefit program, you must be a Native American/American Indian who has been accepted or enrolled in an accredited degree program, college or university to study in the field of health care, and you or your family member must be enrolled in a federally recognized American Indian tribe or Alaska Native village.",
+        "question": "Do I qualify for this benefit program?",
+        "scenario": "I am a Native American currently studying to become a health practitioner at Harvard, but I am not a member of any sort of Native American group",
+        "answer": "No",
+        "history": [
+            {
+                "follow_up_question": "Are you a Native American/American Indian?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "Have you been accepted or enrolled in an accredited degree program, college or university to study in the field of health care?",
+                "follow_up_answer": "Yes"
+            },
+            {
+                "follow_up_question": "Are you or your family member enrolled in a federally recognized American Indian tribe or Alaska Native village?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "3a8fbc4fac5224ad97e86102c507ea47b9c953aa",
+        "tree_id": "88556f63d7e24ced050ae922f6613fedc75437d2",
+        "source_url": "https://www.gov.uk/holiday-entitlement-rights/taking-holiday-before-leaving-a-job",
+        "snippet": "## Taking more leave than the entitlement\n\nIf a worker has taken more leave than they\u2019re entitled to, their employer must not take money from their final pay unless it\u2019s been agreed beforehand in writing. The rules in this situation should be outlined in the employment contract, company handbook or intranet site.",
+        "question": "Can my employer take money from my final pay?",
+        "scenario": "I took more leave than I was entitled to, but I agreed to it beforehand.",
+        "answer": "Yes",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Did you take more leave than they\u2019re entitled to?",
+                "follow_up_answer": "Yes"
+            },
+            {
+                "follow_up_question": "Did you agree to it beforehand?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "99d6231d996be3fe655b72e6a959364b15b899fc",
+        "tree_id": "f7143450e9cd963d4a904fc2271bc7c79ee3861c",
+        "source_url": "https://www.gov.uk/state-pension/inheritance",
+        "snippet": "#  6. Inheritance\n\nIf you deferred for less than 12 months your spouse or civil partner can only get extra State Pension, not a lump sum.",
+        "question": "Can my spouse claim the extra State Pension?",
+        "scenario": "I deferred for 10 months. Neither myself nor my partner has reached Pension Credit qualifying age.",
+        "answer": "Yes",
+        "history": [],
+        "evidence": [
+            {
+                "follow_up_question": "Did you defer for less than 12 months?",
+                "follow_up_answer": "Yes"
+            }
+        ]
+    },
+    {
+        "utterance_id": "cb009da8a71a75b77e8c943bf425cc24cc667214",
+        "tree_id": "566837f88b9807265aac87e768200b3ba7b63c4a",
+        "source_url": "https://www.gov.uk/benefits-calculators",
+        "snippet": "## What you\u2019ll need\n\nYou\u2019ll need accurate information about your:\n\n* savings\n* income, including your partner\u2019s (from payslips, for example)\n* existing benefits and pensions (including anyone living with you)\n* outgoings (such as rent, mortgage, childcare payments)",
+        "question": "Do I need information about this?",
+        "scenario": "The information is about my savings. I do not have info about my existing benefits.",
+        "answer": "Yes",
+        "history": [
+            {
+                "follow_up_question": "Is this information about your savings?",
+                "follow_up_answer": "Yes"
+            },
+            {
+                "follow_up_question": "Do you have accurate info about your income?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": [
+            {
+                "follow_up_question": "Do you have info about your existing benefits?",
+                "follow_up_answer": "No"
+            }
+        ]
+    },
+    {
+        "utterance_id": "6cb07d4495c8e40f81b21ce87cd1cfa7d0eb3412",
+        "tree_id": "2161030a6a3b9079e145f07dbde6805a05734409",
+        "source_url": "https://www.dmv.org/vt-vermont/safety-laws.php",
+        "snippet": "All drivers, regardless of age or license status, are banned from texting while behind the wheel.",
+        "question": "Can I text behind the wheel?",
+        "scenario": "I have questions about texting. Luckily, I'm in the passenger seat!",
+        "answer": "No",
+        "history": [
+            {
+                "follow_up_question": "Are you behind the wheel?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": []
+    },
+    {
+        "utterance_id": "a0efc0fcba8bea4d78c5c17a93fcfb36ea16d8b2",
+        "tree_id": "c01a595f8a56f2058ad2d6ccc1d381f1306185c5",
+        "source_url": "https://www.gov.uk/benefits-calculators",
+        "snippet": "Use an independent benefits calculator to find out:\n\n* what benefits you could get\n* how to claim\n* how your benefits will be affected if you start work",
+        "question": "Should I use an independent benefits calculator for this?",
+        "scenario": "I already know the kind of benefits I can get, but I would like to know more about whether or not the benefits I'm getting now will be affected if I start to work",
+        "answer": "Yes",
+        "history": [
+            {
+                "follow_up_question": "Do you need to find out what benefits you could get?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Do you need to figure out how to claim benefits?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Do you need to figure out how your benefits will be affected if you start work?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": []
+    },
+    {
+        "utterance_id": "ce9326f1f4177f1016f4aecf4527128dc964d9df",
+        "tree_id": "c89f1a202759a9d0b56e826284f6f4da9ba5118e",
+        "source_url": "https://www.humanservices.gov.au/organisations/health-professionals/enablers/form-upload-hpos",
+        "snippet": "## File requirements\n\nEach attachment must be less than 10MB. If it's larger compress it or send it by post. The blue bar above your attachments shows the MB used per upload.",
+        "question": "Can I upload the attachment?",
+        "scenario": "The attachment I'd like to include is 11MBs",
+        "answer": "Yes",
+        "history": [
+            {
+                "follow_up_question": "Is the attachment less than 10MB?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Can you compress the attachment to less than 10MB?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": []
+    },
+    {
+        "utterance_id": "8063754fc1d4426c18a0c2382c6d0110ebe57fc2",
+        "tree_id": "fe7cea1b36389206251af289a647ab7b51f61927",
+        "source_url": "https://www.benefits.gov/benefits/benefit-details/569",
+        "snippet": "VA can also reimburse expenses for covered travel to and from your doctor or health care facility within a reasonable commuting area. Preauthorization is required for travel outside of the commuting area.",
+        "question": "Can the VA reimburse my travel to and from the doctor?",
+        "scenario": "I am a 46 year old man from the United Kingdom. Fortunately, I have had Winter Fuel Payment in the past.",
+        "answer": "Did you receive preauthorization for travel outside of the commuting area?",
+        "history": [
+            {
+                "follow_up_question": "Is it in a reasonable commuting area?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": []
+    },
+    {
+        "utterance_id": "57924bbd65d57671e630d0db952419d961e7a745",
+        "tree_id": "45c0b83ec88820c3c9c4a8d3b94d1051fce9e3ec",
+        "source_url": "https://www.benefits.gov/benefits/benefit-details/1503",
+        "snippet": "In order to qualify for this benefit program, homeowners and renters must have sustained physical damage and be located in a disaster declared county.",
+        "question": "Do I qualify for this loan?",
+        "scenario": "My primary residence suffered severe physical damage after the storm. I wanted to know if I qualify for this loan.",
+        "answer": "Yes",
+        "history": [
+            {
+                "follow_up_question": "Are you located in a disaster declared county?",
+                "follow_up_answer": "Yes"
+            },
+            {
+                "follow_up_question": "Did your residence suffer sustained physical damage?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": []
+    },
+    {
+        "utterance_id": "ad0da9156afa0d072bd4d816d1a2edd5180d00e6",
+        "tree_id": "12c6078ef968d7be91a1f43dc0a3d61eda3386a3",
+        "source_url": "https://www.usa.gov/grants",
+        "snippet": "##Who May Receive a Grant?\n\nContrary to what you might see online or in the media, the federal government does not offer grants or \u201cfree money\u201d to individuals to start a business, or cover personal expenses.",
+        "question": "Can I get a grant from federal government?",
+        "scenario": "No, it's not for any personal reason. I reached pension age 10 years ago.",
+        "answer": "is it to start a business?",
+        "history": [
+            {
+                "follow_up_question": "Is it to cover personal expenses?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": []
+    },
+    {
+        "utterance_id": "676ace5cd6ea8289907038fb8d7310b0d3bf8bc6",
+        "tree_id": "e2fd0f29623cd93fcfba178a111e05469c84ccc8",
+        "source_url": "https://www.gov.uk/tax-on-pension/tax-when-you-live-abroad",
+        "snippet": "## Double tax\n\nIf you live in a country without a \u2018double taxation agreement\u2019 with the UK, you might have to pay tax in both countries.",
+        "question": "Is it possible that I may have to pay tax in both countries?",
+        "scenario": "This is for me, no one else else.",
+        "answer": "Yes",
+        "history": [
+            {
+                "follow_up_question": "Do you live in a country without a 'double taxation agreement' with the UK?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": []
+    },
+    {
+        "utterance_id": "e6a69aae7605c7cb625925ceb4078ce67beb81df",
+        "tree_id": "e2fd0f29623cd93fcfba178a111e05469c84ccc8",
+        "source_url": "https://www.gov.uk/tax-on-pension/tax-when-you-live-abroad",
+        "snippet": "## Double tax\n\nIf you live in a country without a \u2018double taxation agreement\u2019 with the UK, you might have to pay tax in both countries.",
+        "question": "Is it possible that I may have to pay tax in both countries?",
+        "scenario": "As far as I'm aware, I live in a country that doesn't have a double taxation agreement with the United Kingdom",
+        "answer": "Yes",
+        "history": [
+            {
+                "follow_up_question": "Do you live in a country without a 'double taxation agreement' with the UK?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": []
+    },
+    {
+        "utterance_id": "21a478a7a12daa7cda5ebb3af03dd9859357453d",
+        "tree_id": "7d6c8794f19c39ca2d6e0275dd8e6b86b9d42881",
+        "source_url": "https://www.gov.uk/apply-council-tax-reduction",
+        "snippet": "Apply to your local council for Council Tax Reduction if you're on a low income or benefits - this has replaced Council Tax Benefit",
+        "question": "Can I apply for Council Tax Reduction?",
+        "scenario": "I would not consider it to be a medically valid reason",
+        "answer": "Are you on a low income or benefits?",
+        "history": [],
+        "evidence": []
+    },
+    {
+        "utterance_id": "f73986229bbae300b73ed8e3b07b145598232e1f",
+        "tree_id": "2c7c37769eb365976fb91d3888ae8eaac206e47d",
+        "source_url": "https://www.gov.uk/maternity-pay-leave/eligibility",
+        "snippet": "## Statutory Maternity Pay\n\nTo qualify for SMP you must:\n\n* earn on average at least \u00a3113 a week\n* give the correct notice\n* give proof you\u2019re pregnant\n* have worked for your employer continuously for at least 26 weeks continuing into the \u2018qualifying week\u2019 - the 15th week before the expected week of childbirth",
+        "question": "Do I qualify for SMP?",
+        "scenario": "I only earns \u00a350 a week. ",
+        "answer": "No",
+        "history": [
+            {
+                "follow_up_question": "Do you earn on average at least \u00a3113 a week?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": []
+    },
+    {
+        "utterance_id": "1529e0669db98c6e499e99c579fec31f71d294e5",
+        "tree_id": "fe7cea1b36389206251af289a647ab7b51f61927",
+        "source_url": "https://www.benefits.gov/benefits/benefit-details/569",
+        "snippet": "VA can also reimburse expenses for covered travel to and from your doctor or health care facility within a reasonable commuting area. Preauthorization is required for travel outside of the commuting area.",
+        "question": "Can the VA reimburse my travel to and from the doctor?",
+        "scenario": "I don't think the area I'm referring to would be considered a reasonable area",
+        "answer": "Yes",
+        "history": [
+            {
+                "follow_up_question": "Is it in a reasonable commuting area?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Did you receive preauthorization for travel outside of the commuting area?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": []
+    },
+    {
+        "utterance_id": "cb213ab5707ebb272cf8ce651957125b44c36407",
+        "tree_id": "dcfc9d862b10481985cf05fa3025666f944d5910",
+        "source_url": "https://www.uscis.gov/travel-documents",
+        "snippet": "# Refugee Travel Document\n\nHave refugee or asylee status but are not a lawful permanent resident (Green Card holder); or",
+        "question": "Do I have to have a refugee travel document to return to the United States?",
+        "scenario": "I am wondering about documents. Unfortunately, I don't hold a Green Card, but my age does make me qualified.",
+        "answer": "Yes",
+        "history": [
+            {
+                "follow_up_question": "Do you have refugee or asylee status?",
+                "follow_up_answer": "Yes"
+            },
+            {
+                "follow_up_question": "Are you a lawful permanent resident (Green Card holder)?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": []
+    },
+    {
+        "utterance_id": "e3c8cb14a283238ce3ff15b14a0d252cc9f07f0c",
+        "tree_id": "383e069af14576defd006b051b347be9ad0196ad",
+        "source_url": "https://www.gov.uk/vat-businesses/charging-vat-to-charities",
+        "snippet": "## Items that qualify for the zero rate\n\nYou may be able to apply zero VAT when you sell the following to an eligible charity:\n\n* equipment for making \u2018talking\u2019 books and newspapers\n* lifeboats and associated equipment, including fuel\n* medicine or ingredients for medicine\n* resuscitation training models",
+        "question": "Can I apply zero VAT to this item?",
+        "scenario": "We sell hearing aids and other things too.",
+        "answer": "Are you selling medicine or ingredients for medicine?",
+        "history": [
+            {
+                "follow_up_question": "Is it equipment for making \u2018talking\u2019 books and newspapers?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Are you selling lifeboats and associated equipment, including fuel?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": []
+    },
+    {
+        "utterance_id": "1b5e14906503a037c7e748473fcc5c6c7cfa83a9",
+        "tree_id": "1fd4dc9bc9c71abd49429b9fd3daa9a0ae05c9b8",
+        "source_url": "https://www.gov.uk/vat-businesses/charging-vat-to-charities",
+        "snippet": "## Items that qualify for the zero rate\n\nThe eligible items include:\n\n* medical, veterinary and scientific equipment\n* ambulances\n* goods for disabled people\n* motor vehicles for medical use",
+        "question": "Is this item eligible?",
+        "scenario": "The item is sports car.",
+        "answer": "No",
+        "history": [
+            {
+                "follow_up_question": "Is the item medical, veterinary and scientific equipment?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Is the item an ambulance?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Is the item goods for disabled people?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "is it motor vehicles for medical use?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": []
+    },
+    {
+        "utterance_id": "f8e646bc24b5185d54a5280201827ca4ecdf59d1",
+        "tree_id": "383e069af14576defd006b051b347be9ad0196ad",
+        "source_url": "https://www.gov.uk/vat-businesses/charging-vat-to-charities",
+        "snippet": "## Items that qualify for the zero rate\n\nYou may be able to apply zero VAT when you sell the following to an eligible charity:\n\n* equipment for making \u2018talking\u2019 books and newspapers\n* lifeboats and associated equipment, including fuel\n* medicine or ingredients for medicine\n* resuscitation training models",
+        "question": "Can I apply zero VAT to this item?",
+        "scenario": "I'm not selling life simulation models I'm selling antique cars like Model T's and Silver Ghosts and such.",
+        "answer": "No",
+        "history": [
+            {
+                "follow_up_question": "Is it equipment for making \u2018talking\u2019 books and newspapers?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Are you selling lifeboats and associated equipment, including fuel?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Are you selling medicine or ingredients for medicine?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Is it resuscitation training models?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": []
+    },
+    {
+        "utterance_id": "1b342422518fa1f170a1627f4c2222056b918803",
+        "tree_id": "ac40162e1dc6c936d60476a8fc84f905a8f7caba",
+        "source_url": "https://www.benefits.gov/benefits/benefit-details/286",
+        "snippet": "You may be an eligible Veteran if:\n\n* You have an Honorable Discharge, and\n* You have a High School Diploma (or equivalent) - or 12 hours of college credit, and\n* You meet the requirements under one of the four categories, listed on the Department of Veterans Affairs (VA) Montgomery GI Bill Active Duty page",
+        "question": "May I be an eligible Veteran?",
+        "scenario": "I served in the army.  I was discharged when I was injured in combat.",
+        "answer": "Yes",
+        "history": [
+            {
+                "follow_up_question": "Do you have an honorable discharge?",
+                "follow_up_answer": "Yes"
+            },
+            {
+                "follow_up_question": "do you have a high school diploma?",
+                "follow_up_answer": "Yes"
+            },
+            {
+                "follow_up_question": "do you meet the eligible requirements?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": []
+    },
+    {
+        "utterance_id": "4225547037e0e62889bbe14c1fa69c9ae676dca3",
+        "tree_id": "7553d2bb18b1dd559bc84172056bd49e9598d83e",
+        "source_url": "https://www.gov.uk/tax-credits-if-moving-country-or-travelling/going-abroad-temporarily",
+        "snippet": "#  2. Going abroad\n\nYou may still qualify for tax credits if you go abroad for a short period, for example on holiday or for medical treatment.",
+        "question": "May I still qualify for tax credits?",
+        "scenario": "I don't have any plans to leave the country  I've been working here for cash for the last few years.",
+        "answer": "No",
+        "history": [
+            {
+                "follow_up_question": "Are you going abroad for a short period?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": []
+    },
+    {
+        "utterance_id": "c99f97dc4c7693147c655c40ebd083ab9c59d87b",
+        "tree_id": "2c7c37769eb365976fb91d3888ae8eaac206e47d",
+        "source_url": "https://www.gov.uk/maternity-pay-leave/eligibility",
+        "snippet": "## Statutory Maternity Pay\n\nTo qualify for SMP you must:\n\n* earn on average at least \u00a3113 a week\n* give the correct notice\n* give proof you\u2019re pregnant\n* have worked for your employer continuously for at least 26 weeks continuing into the \u2018qualifying week\u2019 - the 15th week before the expected week of childbirth",
+        "question": "Do I qualify for SMP?",
+        "scenario": "I filed the notice, but I just want told that it wasn't the right one.",
+        "answer": "Do you earn on average at least \u00a3113 a week?",
+        "history": [],
+        "evidence": []
+    },
+    {
+        "utterance_id": "d2ea5142c3bde2c2a1c968bc010ca8dd465f8891",
+        "tree_id": "caafba2e62744a7893ad0f4147c4dc5a7b41582a",
+        "source_url": "https://www.gov.uk/getting-help-with-your-tax-credits-claim/authorisation",
+        "snippet": "## Get authorised\n\nSend form TC689 to the Tax Credit Office. This must be signed by the person (or persons if it\u2019s a joint claim) you\u2019re representing.",
+        "question": "Can I send form TC689 to the Tax Credit Office to get authorised?",
+        "scenario": "I have the form in front of me.  I signed it myself.  It does have my client's name on it though.",
+        "answer": "No",
+        "history": [
+            {
+                "follow_up_question": "Is it signed by the person or person you are representing?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": []
+    },
+    {
+        "utterance_id": "727c4bf47dae7d237cb2b2d5bcefe281c8d6b504",
+        "tree_id": "1fd4dc9bc9c71abd49429b9fd3daa9a0ae05c9b8",
+        "source_url": "https://www.gov.uk/vat-businesses/charging-vat-to-charities",
+        "snippet": "## Items that qualify for the zero rate\n\nThe eligible items include:\n\n* medical, veterinary and scientific equipment\n* ambulances\n* goods for disabled people\n* motor vehicles for medical use",
+        "question": "Is this item eligible?",
+        "scenario": "I am buying myself a new car for personal reasons.",
+        "answer": "No",
+        "history": [
+            {
+                "follow_up_question": "Is the item medical, veterinary and scientific equipment?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Is the item an ambulance?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Is the item goods for disabled people?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "is it motor vehicles for medical use?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": []
+    },
+    {
+        "utterance_id": "db3347a4421298253b42f7faa9ffa6fb50c50524",
+        "tree_id": "95222ed436cbf83e71c65f1021aee2a7e7211313",
+        "source_url": "https://www.benefits.gov/benefits/benefit-details/569",
+        "snippet": "If you are a female Vietnam Veteran with a child who has a birth defect or you are a child of a female Vietnam Veteran with a birth defect, the child may be eligible for VA-financed health care.",
+        "question": "Is my child eligible for VA-financed health care?",
+        "scenario": "My father served in the Vietnam war.  I'm not sure what I'm entitled to because I didn't take the quiz.",
+        "answer": "Do you have a birth defect?",
+        "history": [
+            {
+                "follow_up_question": "Are you a female Vietnam Veteran?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Are you the child of a Vietnam Veteran?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": []
+    },
+    {
+        "utterance_id": "31314614bc4d1c8abf9ce1c86515a963d214941a",
+        "tree_id": "c01a595f8a56f2058ad2d6ccc1d381f1306185c5",
+        "source_url": "https://www.gov.uk/benefits-calculators",
+        "snippet": "Use an independent benefits calculator to find out:\n\n* what benefits you could get\n* how to claim\n* how your benefits will be affected if you start work",
+        "question": "Should I use an independent benefits calculator for this?",
+        "scenario": "I've read through and I'm aware of the benefits that I am entitled to.  I just want to know how much I can get when I start work.",
+        "answer": "Yes",
+        "history": [
+            {
+                "follow_up_question": "Do you need to find out what benefits you could get?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Do you need to figure out how to claim benefits?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Do you need to figure out how your benefits will be affected if you start work?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": []
+    },
+    {
+        "utterance_id": "332beceef940d69e7bf35e57d601a793aeb86a3c",
+        "tree_id": "95222ed436cbf83e71c65f1021aee2a7e7211313",
+        "source_url": "https://www.benefits.gov/benefits/benefit-details/569",
+        "snippet": "If you are a female Vietnam Veteran with a child who has a birth defect or you are a child of a female Vietnam Veteran with a birth defect, the child may be eligible for VA-financed health care.",
+        "question": "Is my child eligible for VA-financed health care?",
+        "scenario": "My dad was in the army.  He served in the Vietnam War and later worked in a factory.",
+        "answer": "No",
+        "history": [
+            {
+                "follow_up_question": "Are you a female Vietnam Veteran?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Are you the child of a Vietnam Veteran?",
+                "follow_up_answer": "Yes"
+            },
+            {
+                "follow_up_question": "Do you have a birth defect?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": []
+    },
+    {
+        "utterance_id": "d0cea7a4927bf30f8e523c984c71dd295d8ab546",
+        "tree_id": "1fd4dc9bc9c71abd49429b9fd3daa9a0ae05c9b8",
+        "source_url": "https://www.gov.uk/vat-businesses/charging-vat-to-charities",
+        "snippet": "## Items that qualify for the zero rate\n\nThe eligible items include:\n\n* medical, veterinary and scientific equipment\n* ambulances\n* goods for disabled people\n* motor vehicles for medical use",
+        "question": "Is this item eligible?",
+        "scenario": "I was in the army.  I served in active duty and I was stationed at Camp Lejeune.  I wanted to get a new vehicle to go on leave and visit my family.",
+        "answer": "No",
+        "history": [
+            {
+                "follow_up_question": "Is the item medical, veterinary and scientific equipment?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Is the item an ambulance?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Is the item goods for disabled people?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "is it motor vehicles for medical use?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": []
+    },
+    {
+        "utterance_id": "bb2b7b6333f29d40e0d7db57573cb5530f434db5",
+        "tree_id": "88556f63d7e24ced050ae922f6613fedc75437d2",
+        "source_url": "https://www.gov.uk/holiday-entitlement-rights/taking-holiday-before-leaving-a-job",
+        "snippet": "## Taking more leave than the entitlement\n\nIf a worker has taken more leave than they\u2019re entitled to, their employer must not take money from their final pay unless it\u2019s been agreed beforehand in writing. The rules in this situation should be outlined in the employment contract, company handbook or intranet site.",
+        "question": "Can my employer take money from my final pay?",
+        "scenario": "It was not agreed upon beforehand",
+        "answer": "Yes",
+        "history": [
+            {
+                "follow_up_question": "Did you take more leave than they\u2019re entitled to?",
+                "follow_up_answer": "Yes"
+            },
+            {
+                "follow_up_question": "Did you agree to it beforehand?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": []
+    }
+]
